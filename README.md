@@ -21,3 +21,8 @@ Invalid choice: 'json)', maybe you meant:
 
   * json
 
+
+
+What experience does the SRE candidate have with automation and toil reduction?  Please provide examples.
+What experience does the SRE candidate have with resilient infrastructure and/or application design?
+Provide examples of the SRE candidate’s development experience.
