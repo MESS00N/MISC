@@ -80,3 +80,27 @@ Impact: This proactive approach led to a 30% reduction in downtime during peak t
 Contributing to Open Source Projects:
 Example: I actively contributed to open-source projects related to Kubernetes and monitoring tools. This included developing plugins and enhancements that improved functionality and performance.
 Impact: Contributing to the community not only improved my skills but also helped our team adopt best practices and stay updated with the latest developments in the SRE field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Custom Metrics via OneAgent: You can write custom scripts to monitor file size, checksum, or record count, and send these metrics to Dynatrace using OneAgent's custom metrics feature. This way, you can raise alerts in Dynatrace when the file appears incomplete.
+
+Network Monitoring: If the file transfer happens over a network, you can monitor network activity using Dynatrace. It can detect issues like packet loss or network instability that could result in partial file transfers.
+
+Log Monitoring: If there are logs associated with the file transfer, you can integrate those logs into Dynatrace, using it to look for error messages or anomalies in transfer patterns.
